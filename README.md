@@ -137,11 +137,10 @@ cat manifesto_<your_username>.txt (replace <your_username> with your actual Linu
 
 ---
 
-# Execution Notes
-
-- All scripts are executed via terminal
-- No graphical interface is required
-- Works on Linux or WSL environment
-- Some scripts may require `sudo` permissions
+# Additional Notes
+-All scripts are terminal-based
+-No graphical interface is required
+-Compatible with both Linux and WSL
+-Some operations may require root (sudo) privileges
 
 ---
